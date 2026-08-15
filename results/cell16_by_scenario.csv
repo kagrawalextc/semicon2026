@@ -1,0 +1,10 @@
+scenario,samples,cell6_mean_error_px,final_mean_error_px,cell6_acc_1px,final_acc_1px,final_acc_5px,final_acc_10px,accepted,regressions,catastrophic
+blur,40,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0
+combined,40,15.333707858994364,3.249131198088753,0.85,0.875,0.975,0.975,2,0,1
+contrast_mismatch,40,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0
+illumination,40,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0
+noise,40,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0
+reference_brightness,40,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0
+reference_rotation,40,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0
+reference_scale,40,0.3414213562373095,0.3414213562373095,0.9,0.9,1.0,1.0,0,0,0
+search_brightness,40,0.0,0.0,1.0,1.0,1.0,1.0,0,0,0

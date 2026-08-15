@@ -1,0 +1,24 @@
+{
+  "cell": 16,
+  "method": "risk_tiered_catastrophic_safe_arbitration",
+  "cell6_prediction": [
+    "adaptive_x",
+    "adaptive_y"
+  ],
+  "cell9_prediction": [
+    "recovery_x",
+    "recovery_y"
+  ],
+  "score_normal": 0.72,
+  "agreement_normal": 0.75,
+  "score_large": 0.78,
+  "agreement_large": 0.75,
+  "score_catastrophic": 0.78,
+  "agreement_catastrophic": 0.75,
+  "small_jump_px": 3.0,
+  "medium_jump_px": 15.0,
+  "large_jump_px": 100.0,
+  "catastrophic_jump_px": 300.0,
+  "min_improvement_px": 0.15,
+  "safety_pass": true
+}
